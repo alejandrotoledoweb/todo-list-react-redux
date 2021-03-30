@@ -1,3 +1,20 @@
+# Todo list 
+
+This project was built to learn how to connect react and redux in the same project.
+I take it from the Redux [page](https://redux.js.org/introduction/getting-started).
+
+## You can use this project in your local environment 
+
+Run this command in the terminal to get a copy of the code:
+
+`git clone https://github.com/alejandrotoledoweb/todo-list-react-redux.git`
+
+then run this command to install all dependencies: `npm i`
+
+and finally run `yarn start` to compile everything and your default browser should open the project.
+
+## Description
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
